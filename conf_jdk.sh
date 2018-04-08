@@ -1,3 +1,5 @@
+#! /bin/bash
+echo '' >> /etc/profile
 echo '#java configure' >> /etc/profile
 #jdk位置根据自己需要修改
 echo 'export JAVA_HOME=/opt/jdk1.8.0_161' >> /etc/profile
