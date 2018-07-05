@@ -1,6 +1,6 @@
 #! /bin/bash
 
-FILE_TYPE=".txt";
+FILE_TYPE=".pdf";
 FILE_NUM=0;
 FILE_NAME="";
 FILE_NAME_PRE="";
